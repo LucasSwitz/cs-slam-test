@@ -26,7 +26,6 @@ depth_string_cm = ""
 max_features = 50
 
 point_3d_string = ""
-total_position = 0
 
 DELTA_Z_THRESHOLD = 3
 
